@@ -1,2 +1,2 @@
 # AP26
-autobio page
+lorem ipsum cool
